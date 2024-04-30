@@ -1,4 +1,4 @@
-# awesome-low-quality-multimodal-learning
+# Awesome Low-quality Multimodal Learning
 
 
 
