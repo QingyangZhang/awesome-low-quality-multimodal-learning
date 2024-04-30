@@ -32,4 +32,4 @@
 - [Trusted multi-view deep learning with opinion aggregation][AAAI 2022](https://ojs.aaai.org/index.php/AAAI/article/view/20724)
 - [EvidenceCap: Towards trustworthy medical image segmentation via evidential identity cap](https://www.arxiv-vanity.com/papers/2301.00349/)
 - [Federated Uncertainty-Aware Aggregation for Fundus Diabetic Retinopathy Staging](https://arxiv.org/abs/2303.13033)
-- [Multimodal dynamics: Dynamical fusion for trustworthy multimodal classification][CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Multimodal_Dynamics_Dynamical_Fusion_for_Trustworthy_Multimodal_Classification_CVPR_2022_paper.pdf)
+- [Multimodal dynamics: Dynamical fusion for trustworthy multimodal classification](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Multimodal_Dynamics_Dynamical_Fusion_for_Trustworthy_Multimodal_Classification_CVPR_2022_paper.pdf)[CVPR 2022]
