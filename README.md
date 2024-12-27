@@ -5,19 +5,12 @@ By Qingyang Zhang (qingyangzhang@tju.edu.cn) and Yake Wei (yakewei@ruc.edu.cn). 
 Please check out our survey paper [Multimodal Fusion on Low-quality Data: A Comprehensive Survey](http://arxiv.org/abs/2404.18947)
 
 
-
-
-
-## Multimodal noise reduction
-
-//TODO
-
 ## Incomplete multimodal learning
 
 
-//TODO
+- [Exploring and exploiting uncertainty for incomplete multi-view classification](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Exploring_and_Exploiting_Uncertainty_for_Incomplete_Multi-View_Classification_CVPR_2023_paper.pdf) [CVPR 2023]
 
-
+- [Deep partial multi-view learning](https://arxiv.org/pdf/2011.06170) [TPAMI 2022]
 
 ## Balanced multimodal fusion
 
