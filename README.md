@@ -4,6 +4,8 @@ By Qingyang Zhang (qingyangzhang@tju.edu.cn) and Yake Wei (yakewei@ruc.edu.cn). 
 
 Please check out our survey paper [Multimodal Fusion on Low-quality Data: A Comprehensive Survey](http://arxiv.org/abs/2404.18947)
 
+![A conceptual framework of multimodal fusion on low-quality data](./cover.png)
+
 
 ## Incomplete multimodal learning
 
