@@ -59,4 +59,5 @@ Please check out our survey paper [Multimodal Fusion on Low-quality Data: A Comp
 - [Trusted multi-view classification](https://openreview.net/pdf?id=OOsR8BzCnl5) [ICLR 2020]
 - [Trusted multi-view classification with dynamic evidential fusion](https://arxiv.org/pdf/2204.11423) [TPAMI 2022]
 - [Test-time adaption against multi-modal reliability bias](https://openreview.net/pdf?id=TPZRq4FALB) [ICLR 2024]
+- [Predictive Dynamic Fusion](https://arxiv.org/pdf/2406.04802) [ICML 2024]
 
